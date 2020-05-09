@@ -60,7 +60,7 @@ Installing
 
 3. Create user:
 
-        $ ./ankisyncctl.py adduser <username>
+        $ python ./ankisyncctl.py adduser <username>
 
 4. Run ankisyncd:
 
